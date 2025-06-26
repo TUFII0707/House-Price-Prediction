@@ -17,3 +17,10 @@ Bangalore House Price Data
 Format: CSV
 Fields: Location, Size, Total Sqft, Bath, Price, etc.
 
+How to Run the Project
+  1. Install Requirements
+    pip install pandas numpy scikit-learn streamlit
+  2. Download the Dataset
+    From Kaggle Link
+  3. Run the App
+    streamlit run streamlit_app.py
